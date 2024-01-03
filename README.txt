@@ -6,7 +6,7 @@ FUTURE PROJECT
 
 Description: A website that prompts the user to authenticate their spotify account then produces a custom aquarium based off their most listened to genres and artists. The design will feature different tank layouts and the fish's names (artist names) below the tank.
 
-Language: Python, Flask (?)
+Language: Python, Flask, HTML, CSS, JavaScript. 
 
 Reason: I was inspired by websites such as receiptify and the Spotify iceberg and wanted to try working with the Spotify API. 
 
